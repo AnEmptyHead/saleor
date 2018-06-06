@@ -883,7 +883,7 @@ exports[`Storyshots Generics / DateFormatter humanized 1`] = `
 <p
   class="MuiTypography-root-2 MuiTypography-body1-11 Component-root-1"
 >
-  9 days ago
+  17 hours ago
 </p>
 `;
 
@@ -891,7 +891,7 @@ exports[`Storyshots Generics / DateFormatter humanized without tooltip 1`] = `
 <p
   class="MuiTypography-root-2 MuiTypography-body1-11 Component-root-1"
 >
-  9 days ago
+  17 hours ago
 </p>
 `;
 
